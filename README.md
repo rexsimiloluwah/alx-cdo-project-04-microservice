@@ -7,13 +7,13 @@ This project involves operationalizing a machine learning microservice API. The 
 ### Project Tasks
 
 Your project goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications. In this project you will:
-[x] Test your project code using linting
-[x] Complete a Dockerfile to containerize this application
-[x] Deploy your containerized application using Docker and make a prediction
-[x] Improve the log statements in the source code for this application
-[x] Configure Kubernetes and create a Kubernetes cluster
-[x] Deploy a container using Kubernetes and make a prediction
-[x] Upload a complete Github repo with CircleCI to indicate that your code has been tested
+- [x] Test your project code using linting
+- [x] Complete a Dockerfile to containerize this application
+- [x] Deploy your containerized application using Docker and make a prediction
+- [x] Improve the log statements in the source code for this application
+- [x] Configure Kubernetes and create a Kubernetes cluster
+- [x] Deploy a container using Kubernetes and make a prediction
+- [x] Upload a complete Github repo with CircleCI to indicate that your code has been tested
 
 You can find a detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
 
