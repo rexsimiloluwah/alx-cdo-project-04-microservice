@@ -1,0 +1,10 @@
+1. Log output from Kubernetes 
+
+Forwarding from 127.0.0.1:8000 -> 8000
+Forwarding from [::1]:8000 -> 8000
+Handling connection for 8000
+
+2. Pod's name and status 
+
+NAME                                        READY   STATUS    RESTARTS      AGE
+alx-project-04-microservice                 1/1     Running   0             5m50s
