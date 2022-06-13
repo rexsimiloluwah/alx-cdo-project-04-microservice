@@ -18,4 +18,5 @@ kubectl get pods
 
 # Step 4:
 # Forward the container port to a host
+kubectl port-forward alx-project-04-microservice 8000:8000
 
